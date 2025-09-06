@@ -26,7 +26,11 @@ git clone https://github.com/anasmelila/Pcmapi.git
 
 
 # Install dependencies
-npm install
+After cloning the repository, run the following command to install all required packages:
+
+
+npm install express mongoose joi nodemon dotenv
+
 
 # Setup .env
 
